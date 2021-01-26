@@ -1,0 +1,10 @@
+(find-doc rem)
+(find-doc "rem")
+(doc "rem")
+(doc +)
+(doc rem)
+(doc mod)
+(find-doc "stack trace REPL exception recent")
+(find-doc "stack trace")
+(stacktrace
+)
